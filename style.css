@@ -1,4 +1,130 @@
 #headline{
     color: paleturquoise;
     text-align: center;
+    font-family: sans-serif;
+    position: absolute;
+    top: .2%;
+    left: 35%;
+    font-size: 3ic;
+    text-align: center;
+}
+.adjustment{
+    position: relative;
+
+
+}
+.Bag_one{
+    background-color: aqua;
+    font-weight: 200;
+    font-size: 2ic;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 100px;
+    left: 25%;
+    top: 60%;
+    text-align: center;
+    position: absolute;
+
+}
+.Bag_two{
+    background-color: aqua;
+    font-weight: 200;
+    font-size: 2ic;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 100px;
+    left: 50%;
+    top: 60%;
+    text-align: center;
+    position: absolute;
+
+}
+.Bag_three{
+    background-color: aqua;
+    font-weight: 200;
+    font-size: 2ic;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 100px;
+    left: 75%;
+    top: 60%;
+    text-align: center;
+    position: absolute;
+
+}
+.list_one{
+    background-color: aqua;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 150px;
+   
+    position: absolute;
+    font-size: 1.5ic;
+    left: 25%;
+    top: 70%;
+}
+.list_two{
+    background-color: aqua;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 150px;
+   
+    position: absolute;
+    font-size: 1.5ic;
+    left: 50%;
+    top: 70%;
+}
+.list_three{
+    background-color: aqua;
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 150px;
+   
+    position: absolute;
+    font-size: 1.5ic;
+    left: 75%;
+    top: 70%;
+
+
+}
+.button{
+
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    font-size: 1.5ic;
+    background-color: aqua;
+    border: 3px solid aqua;
+
+
+}
+#click_me{
+    left: 30%;
+}
+
+.title{
+    color: rgba(34, 54, 170, 0.767);
+    text-align: center;
+    font-family: sans-serif;
+    position: absolute;
+    top: .1%;
+    left: 75%;
+    font-size: 3ic;
+    text-align: center;
+
+}
+
+.info{
+    background-color: rgba(36, 68, 173, 0.63);
+    padding: 1%;
+    display: inline;
+    width: 300px; height: 150px;
+    position: absolute;
+    font-size: 1.5ic;
+    right: 10%;
+    bottom: 60%;
+}
+
+.me{
+    position: relative;
 }
